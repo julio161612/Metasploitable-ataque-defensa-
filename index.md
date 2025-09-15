@@ -104,3 +104,9 @@ El proyecto está dividido en dos secciones principales:
 - [Nmap Scripts](https://nmap.org/nsedoc/)  
 - [Metasploit Documentation](https://docs.rapid7.com/metasploit/)  
 - [Nikto Web Scanner](https://cirt.net/Nikto2)
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/julio-lópez-cotán-1032aa348)
+- Correo: juliolopezcotan6@gmail.com
+- Portafolio: [Metasploitable Ataque-Defensa](https://julio161612.github.io/Metasploitable-ataque-defensa-/)
